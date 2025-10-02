@@ -90,5 +90,6 @@ if st.button("🚀 Generate Resume & Cover Letter"):
 # Footer
 st.markdown("---")
 
-st.caption("Built by YOUR_NAME • Powered by Gemini AI & Streamlit")
+st.caption("Built by CHAKK • Powered by Gemini AI & Streamlit")
+
 
