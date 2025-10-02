@@ -78,7 +78,7 @@ Feel free to fork this project, submit pull requests, or open issues if you find
 
 ## 🧑‍💻 Built By
 
-**Libna** (Your Name)
+**CHAKK** (Your Name)
 * [Link to your LinkedIn]
 * [Link to your Portfolio/Website]
 
