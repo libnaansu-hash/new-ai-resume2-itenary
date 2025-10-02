@@ -57,7 +57,7 @@ st.markdown("Generate a professional resume summary and cover letter using Gemin
 
 # Input fields
 st.subheader("Input Your Details")
-name = st.text_input("Your Name", "Libna")
+name = st.text_input("Your Name", "CHAKK")
 job_title = st.text_input("Target Job Title (e.g., Data Science Intern)", "Data Science Intern")
 skills = st.text_area("List Your Key Skills (e.g., Python, Pandas, SQL, Communication)", "Python, Scikit-learn, Pandas, Matplotlib, SQL")
 projects = st.text_area("Describe Your Best Project/Experience (e.g., Built a predictive house pricing model...)", "Built a model to predict house prices, cleaned data, and achieved 8% error rate.")
@@ -90,4 +90,5 @@ if st.button("🚀 Generate Resume & Cover Letter"):
 # Footer
 st.markdown("---")
 
-st.caption("Built by Libna • Powered by Gemini AI & Streamlit")
+st.caption("Built by YOUR_NAME • Powered by Gemini AI & Streamlit")
+
