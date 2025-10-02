@@ -68,3 +68,24 @@ Before running this application, you need to ensure you have the following insta
 ---
 
 ## 📄 File Structure
+---
+
+## 🤝 Contribution
+
+Feel free to fork this project, submit pull requests, or open issues if you find bugs or have suggestions for new features (e.g., adding a 'Work Experience' section or different generation models).
+
+---
+
+## 🧑‍💻 Built By
+
+**Libna** (Your Name)
+* [Link to your LinkedIn]
+* [Link to your Portfolio/Website]
+
+---
+
+
+
+
+
+
