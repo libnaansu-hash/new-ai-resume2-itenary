@@ -1,5 +1,5 @@
-import streamlit as st
-from google import genai
+import streamlit as 
+import google_genai as genai
 from google.genai.errors import APIError
 
 # --- 1. Configuration and Client Initialization ---
@@ -91,6 +91,7 @@ if st.button("🚀 Generate Resume & Cover Letter"):
 st.markdown("---")
 
 st.caption("Built by CHAKK • Powered by Gemini AI & Streamlit")
+
 
 
 
