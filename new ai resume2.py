@@ -8,7 +8,7 @@ from google.genai.errors import APIError
 
 # IMPORTANT: Replace the placeholder with your actual Gemini API Key
 # Best practice is to use st.secrets or environment variables, but for this example:
-GEMINI_API_KEY = "AIzaSyBnNRtwsRBQWE_pe54dXH5eNcmz-ix97ZE"
+GEMINI_API_KEY = "YOUR_API_KEY"
 # NOTE: The provided key is a placeholder and will not work.
 
 try:
@@ -93,6 +93,7 @@ if st.button("🚀 Generate Resume & Cover Letter"):
 st.markdown("---")
 
 st.caption("Built by CHAKK • Powered by Gemini AI & Streamlit")
+
 
 
 
